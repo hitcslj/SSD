@@ -1,4 +1,4 @@
-# DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation
+# Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation
 ### [Paper]()
 
 
