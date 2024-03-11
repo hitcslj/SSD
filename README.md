@@ -1,5 +1,5 @@
 # Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation
-### [Paper]()
+### [Paper](https://arxiv.org/abs/2403.05056)
 
 
 <div align=center>
