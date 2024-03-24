@@ -4,7 +4,7 @@
 
 Official implementation of SSD: Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation
 
-Yifan Mao, [Jian Liu](https://hitcslj.github.io/), Xianming Liu
+[Yifan Mao](https://jluwula.github.io/), [Jian Liu](https://hitcslj.github.io/), Xianming Liu
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
 
